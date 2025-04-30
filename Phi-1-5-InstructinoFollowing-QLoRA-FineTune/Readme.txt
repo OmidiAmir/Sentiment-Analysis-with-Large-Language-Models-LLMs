@@ -1,2 +1,2 @@
-Quantized LoRA (QLoRA), will be applied on the Phi 1.5 for the question answering purpose. 
+Quantized LoRA (QLoRA), is applied on the Phi 1.5 for the question answering/instruction following purpose. 
 
